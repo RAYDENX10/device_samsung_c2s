@@ -46,9 +46,9 @@
     
         <!-- The properties of a UDFPS sensor in pixels, in the order listed below: -->
     <integer-array name="config_udfps_sensor_props">
-        <item>720</item>
-        <item>2500</item>
-        <item>150</item>
+        <item>535</item>
+        <item>1845</item>
+        <item>130</item>
     </integer-array>
     <!-- The RadioAccessFamilies supported by the device.
          Empty is viewed as "all".  Only used on devices which

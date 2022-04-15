@@ -20,7 +20,7 @@
      for different hardware and product builds. -->
 <resources>
     <!-- The radius of the enrollment progress bar, in dp -->
-    <integer name="config_udfpsEnrollProgressBar" translatable="false">160</integer>
+    <integer name="config_udfpsEnrollProgressBar" translatable="false">140</integer>
     
     <!-- the padding on the end of the statusbar -->
     <dimen name="status_bar_padding_start">16px</dimen>
