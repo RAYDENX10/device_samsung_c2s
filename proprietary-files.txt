@@ -11,10 +11,6 @@ vendor/etc/mixer_gains.xml
 -vendor/lib64/soundfx/libsamsungSoundbooster_plus.so
 -vendor/lib64/soundfx/libswdap.so
 
-# Bluetooth
-# Bluetooth (aptX) - from crosshatch - QP1A.190711.020
-product/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
-
 # Camera
 -vendor/lib/hw/camera.exynos990.so
 -vendor/lib64/hw/camera.exynos990.so
