@@ -35,5 +35,5 @@
     <dimen name="system_icons_keyguard_padding_end">@dimen/status_bar_padding_end</dimen>
     
     <!-- Height of the status bar header bar when on Keyguard -->
-    <dimen name="status_bar_header_height_keyguard">@*android:dimen/status_bar_height_portrait</dimen>
+    <dimen name="status_bar_header_height_keyguard">@*android:dimen/status_bar_height</dimen>
     </resources>
