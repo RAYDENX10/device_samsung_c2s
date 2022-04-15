@@ -18,10 +18,10 @@ cc_library_static {
     name: "libinit_c2s",
     recovery_available: true,
     srcs: ["init_c2s.cpp"],
+    header_libs: ["libbase_headers"],
     include_dirs: [
         "device/samsung/exynos990-common/init",
         "external/fmtlib/include",
-        "system/core/base/include",
         "system/core/init",
     ],
     whole_static_libs: ["libinit_helpers_exynos990"]
